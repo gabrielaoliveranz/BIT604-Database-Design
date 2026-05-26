@@ -1,0 +1,30 @@
+EmployeeID,DepartmentID,RoleID,FirstName,LastName,Address,Phone,HourlyRate,SupervisorID
+50561,6,6,Ella,Anderson,"11 Kirkwood Street, Cambridge",220962413,45,NULL
+50562,6,1,Levi,Campbell,"73 Mancel Ave, Hamilton",271196244,31,50561
+50563,2,2,Theo,Clark,"41 Alexandra Street, Te Awamutu",220962411,29,50574
+50564,1,6,Charlotte,Scott,"51 Benson Road, Te Awamutu",263349624,48,NULL
+50565,2,3,Tim,Martin,"33 Briar Rose Court, Hamilton",220962411,34,50574
+50566,1,4,Hazel,Thompson,"15 Bow Street, Raglan",283336032,33,50564
+50567,3,5,Liam,Smith,"81 Cross Street, Raglan",217773855,28,50577
+50568,5,1,Aria,Singh,"9 Helen Place, Raglan",272362433,27,50583
+50569,4,2,George,Walker,"8 Point Street, Raglan",235561609,31,NULL
+50570,3,3,Willow,Chen,"73 Clyde Street, Hamilton",217773855,29,50577
+50571,4,4,James,Patel,"67 Cambridge Road, Hamilton",241087368,33,50579
+50572,4,5,Violet,Wang,"14 Bryce Road, Hamilton",225891123,28,50579
+50573,1,4,Arlo,Kumar,"13 Dinsdale Road, Hamilton",214012591,26,50564
+50574,2,6,Thomas,Anderson,"76 Thomas Road, Hamilton",214599873,51,NULL
+50575,5,3,Hunter,King,"7 Park Drive, Raglan",204131061,28,50583
+50576,4,5,Ivy,Johnson,"214 Tristram Street, Hamilton",219763593,27,50579
+50577,3,6,Lucas,Harris,"19 Briar Rose Court, Hamilton",273672677,53,NULL
+50578,4,2,Oliver,Hall,"76 Princess Street, Ngaruawahia",221987398,35,50579
+50579,4,6,Maia,Taylor,"14 Toa Street, Ngaruawahia",221991239,52,NULL
+50580,1,1,Noah,Young,"15 Silverdale Road, Hamilton",220487676,27,50564
+50581,2,3,Leo,Stewart,"121 Hannon Road, Cambridge",279122323,33,50574
+50582,6,1,Sadie,Robinson,"61 Tidd Drive, Raglan",223089954,31,50561
+50583,5,6,Jack,White,"76 Great South Road, Ngaruawahia",228891133,55,NULL
+50584,2,2,George,Wright,"63 Norrie Ave, Raglan",272221259,29,50574
+50585,1,7,Elsie,Thomson,"288 Clyde Street, Hamilton",224599133,27,50564
+50586,2,7,Luca,Walker,"15 Tidd Drive, Raglan",219130076,33,50574
+50587,1,7,Elijah,Brown,"71 Cameron Ave, Te Awamutu",222763599,31,50564
+50588,3,7,Hudson,Wilson,"18 Achiles Ave, Cambridge",226089955,28,50577
+50589,1,7,Riley,Lee,"71 Burr Street, Cambridge",218891188,26,50564
