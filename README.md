@@ -61,13 +61,14 @@ A complete relational database project for a fictional DIY retail business, buil
     ├── customer_Trailer.csv
     └── payroll.csv
 └── screenshots/
+    ├── eer_diagram.png
     ├── Task_3i_total_sales_per_department.png
     ├── Task_3iv_min_avg_max_totalsales_february.png
     ├── Task_3iii_total_number_of_employees_per_role.png
     ├── task5d_ii_action1_delete_error.png
     ├── task5d_iv_drop_database_error.png
     └── task5b_users_created.png
-```
+    ```
 
 ---
 
@@ -106,6 +107,9 @@ ORDER BY TotalSales DESC;
 ---
 
 ## Screenshots
+
+### Entity Relationship Diagram (EER)
+![EER Diagram](screenshots/eer_diagram.png)
 
 ### Aggregation — Total Sales by Department
 ![Sales by Department](screenshots/Task_3i_total_sales_per_department.png)
