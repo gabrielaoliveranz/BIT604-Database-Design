@@ -1,7 +1,7 @@
 -- BIT604 Database | Assessment 3
 -- DIY Merchandise Database
 -- Task 2a: Insert data (Table 1 and Table 2)
--- Gabriela Olivera - 5141369
+-- Gabriela Olivera 
 
 USE DIY_MERCHANDISE;
 
