@@ -1,7 +1,7 @@
 -- BIT604 Database | Assessment 3
 -- DIY Merchandise Database
 -- Task 5: Data security - users and permissions
--- Gabriela Olivera - 5141369
+-- Gabriela Olivera 
 
 USE DIY_MERCHANDISE;
 
