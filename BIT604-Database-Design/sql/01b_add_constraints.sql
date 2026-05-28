@@ -1,7 +1,7 @@
 -- BIT604 Database | Assessment 3
 -- DIY Merchandise Database
 -- Task 1a (supplement): Add foreign keys after data is loaded
--- Gabriela Olivera - 5141369
+-- Gabriela Olivera 
 
 USE DIY_MERCHANDISE;
 
