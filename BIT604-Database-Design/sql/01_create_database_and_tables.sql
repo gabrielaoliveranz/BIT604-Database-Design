@@ -1,7 +1,7 @@
 -- BIT604 Database | Assessment 3
 -- DIY Merchandise Database
 -- Task 1a: Create database and tables
--- Gabriela Olivera - 5141369
+-- Gabriela Olivera 
 
 DROP DATABASE IF EXISTS DIY_MERCHANDISE;
 CREATE DATABASE DIY_MERCHANDISE;
