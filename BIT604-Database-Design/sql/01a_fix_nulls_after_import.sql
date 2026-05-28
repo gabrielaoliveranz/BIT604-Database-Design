@@ -1,7 +1,7 @@
 -- BIT604 Database | Assessment 3
 -- DIY Merchandise Database
 -- Task 1a (supplement): Fix NULL supervisor values after CSV import
--- Gabriela Olivera - 5141369
+-- Gabriela Olivera 
 
 USE DIY_MERCHANDISE;
 
